@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "kz.airpay.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. app.airpay.kz</name>
+    <name>app.airpay.kz</name>
 
     <description>
         Ваш рейс задержали? Вы приехали в аэропорт и узнаете, что на Вашем рейсе овербукинг? Подайте заявку в приложении или на веб-сайте airpay и получите положенную Вам по закону компенсацию без никак проблем.
