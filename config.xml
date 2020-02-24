@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "kz.airpay.app"
         versionCode = "10"
-        version     = "1.3.0">
+        version     = "1.4.0">
 
     <name>app.airpay.kz</name>
 
@@ -40,7 +40,7 @@
 
 
     <platform name="android">
-        <icon src="res/android/icon/63b2468bbdb6b4e5cca364dd8ffb43c1.png" density="ldpi" />
+        <icon src="res/android/icon/5ab822a8fcb479051b17c3a1eebf884b.png" density="ldpi" />
         <icon src="res/android/icon/66315f3b643ef3801f944ee3197251a1.png" density="mdpi" />
         <icon src="res/android/icon/b3df5408cd3e729d80d27702ff2cd65b.png" density="hdpi" />
         <icon src="res/android/icon/b7ad50b614f710cf2fdabe407a8bd654.png" density="xhdpi" />
