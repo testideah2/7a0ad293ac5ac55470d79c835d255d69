@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "kz.airpay.app"
         versionCode = "10"
-        version     = "1.7.0">
+        version     = "1.8.0">
 
-    <name>app.airpay.kz</name>
+    <name>AirPayKz</name>
 
     <description>
         Ваш рейс задержали? Вы приехали в аэропорт и узнаете, что на Вашем рейсе овербукинг? Подайте заявку в приложении или на веб-сайте airpay и получите положенную Вам по закону компенсацию без никак проблем.
@@ -54,27 +54,27 @@
     </platform>
 
     <platform name="ios">
-        <icon src="res/ios/icon/a0c963618455c04b2a22759f53253887.png" width="180" height="180" />
-        <icon src="res/ios/icon/b969e411e3065974a9b199c546f9706c.png" width="60" height="60" />
-        <icon src="res/ios/icon/3eca4f6059e94786ac2eb621eaff3c6f.png" width="120" height="120" />
-        <icon src="res/ios/icon/9f0add588f4d71f8fbe37dc03c5eb297.png" width="76" height="76" />
-        <icon src="res/ios/icon/2d3a59f60228716e4e9499ae29e359af.png" width="152" height="152" />
-        <icon src="res/ios/icon/65bb3fc99c2c7378930585d6c3277ec8.png" width="57" height="57" />
-        <icon src="res/ios/icon/e8dcd048b90f17f7e0b8eac9762a8686.png" width="114" height="114" />
-        <icon src="res/ios/icon/753b03bacab5d86aa30bee0454b465f5.png" width="72" height="72" />
-        <icon src="res/ios/icon/b4924e4666fc0fc354a83d79627a18ca.png" width="144" height="144" />
-        <icon src="res/ios/icon/e3be126235f36a01d161f81fc26f77ac.png" width="167" height="167" />
-        <icon src="res/ios/icon/748bcd940b086842ac3f1c923f59edf3.png" width="29" height="29" />
-        <icon src="res/ios/icon/8ee9becbea9b135a1cdd10c184579c2a.png" width="58" height="58" />
-        <icon src="res/ios/icon/6b0622156f8165452bb312f0a91a7a15.png" width="87" height="87" />
-        <icon src="res/ios/icon/52ca2c0f3f7b77a0171f0c30f08bed14.png" width="167" height="167" />
+        <icon src="res/ios/icon/7af8436ee001c441c2de855c74e8b8bc.png" width="180" height="180" />
+        <icon src="res/ios/icon/b0d3d0546cd6bf740d33445e252d4769.png" width="60" height="60" />
+        <icon src="res/ios/icon/4e3328745a81a403169267497310aec5.png" width="120" height="120" />
+        <icon src="res/ios/icon/4268b704a7a1b6504518fba4225d8828.png" width="76" height="76" />
+        <icon src="res/ios/icon/3d77816674de6dd9f3318df023c36b23.png" width="152" height="152" />
+        <icon src="res/ios/icon/924d071e609e8ae94ea7b4a095824004.png" width="57" height="57" />
+        <icon src="res/ios/icon/d6d93ef4f9fee03665d77b0cf03bb79b.png" width="114" height="114" />
+        <icon src="res/ios/icon/9af0f411c90bf8b58580beaa09ec0414.png" width="72" height="72" />
+        <icon src="res/ios/icon/76b13cbc84e953c864c31dbafb13d7d0.png" width="144" height="144" />
+        <icon src="res/ios/icon/94aecbee3ef8b991a981c6e0ee6469db.png" width="167" height="167" />
+        <icon src="res/ios/icon/1619b0f35111b5f30301e5bc3e3c6932.png" width="29" height="29" />
+        <icon src="res/ios/icon/93ff4321d98ee8d92df5aa89e774ca55.png" width="58" height="58" />
+        <icon src="res/ios/icon/ed2e9a4bf7e92d5aac8bdf75b46e8cd6.png" width="87" height="87" />
+        <icon src="res/ios/icon/7299d0f3d04b64199491ee8e21826230.png" width="167" height="167" />
 
-        <splash src="res/ios/screen/d978e3bd48955c4aa7ba59795a3bc690.png" />
-        <splash src="res/ios/screen/11019d9f3317df6fadaaa820cfea3fb4.png" />
-        <splash src="res/ios/screen/93a111553de4773b90f169ff9cbc48d6.png" />
-        <splash src="res/ios/screen/e37d414e278532703311031fa628a3f7.png" />
-        <splash src="res/ios/screen/849e73d597e17b7d67890f03750a797b.png" />
-        <splash src="res/ios/screen/804e3cf7d70399de18aa001fe0c19cba.png" />
+        <splash src="res/ios/screen/0c14f7c4b23864bdbcb8019d4dd19513.png" />
+        <splash src="res/ios/screen/c3cf45204dcc6b3f56950e67335b27b6.png" />
+        <splash src="res/ios/screen/d0ed2b143a417ede3127dd65858e0692.png" />
+        <splash src="res/ios/screen/7094dc0f0a0a1098d9dfaf8b5119c6a0.png" />
+        <splash src="res/ios/screen/603c87eda9222fc34be21b0ce33cf852.png" />
+        <splash src="res/ios/screen/7a845b6ac426ff6bf7f9ad9239e8cbb2.png" />
     </platform>
 
     <platform name="winphone">
